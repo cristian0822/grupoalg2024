@@ -1,4 +1,4 @@
 # grupoalg2024
-trabajo grupal de fundamento de alg 
-## Camilo Soto - Jonier Hernandez - Cristian Pineda 
+trabajo grupal de fundamento de algoritmia
+Camilo Soto - Jonier Hernandez - Cristian Pineda 
 ## Docente Franklin Martinez
